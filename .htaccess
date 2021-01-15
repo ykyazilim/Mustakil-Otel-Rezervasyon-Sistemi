@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteRule ^rezervasyon$ rezervasyon.php [NC,L]
+RewriteRule ^rezervasyon-2$ rezervasyon-2.php [NC,L]
+RewriteRule ^rezervasyon-3$ rezervasyon-3.php [NC,L]
+RewriteRule ^rezervasyon-4$ rezervasyon-4.php [NC,L]
+  
+
+
+
+
+
+
+
